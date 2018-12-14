@@ -69,7 +69,7 @@ public class SampleMediaListFragment extends Fragment {
         });
 
         mAdapter.addItem("https://wos.58cdn.com.cn/YzWvUtSrYaF/fanglearning/a5885264-8e79-4a2b-94f3-29d335ef1da7.mp4", "https");
-        mAdapter.addItem("http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_4x3/gear1/prog_index.m3u8", "bipbop basic 400x300 @ 232 kbps");
+        mAdapter.addItem("https://www.w3schools.com/html/movie.mp4", "43");
         mAdapter.addItem("http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_4x3/gear2/prog_index.m3u8", "bipbop basic 640x480 @ 650 kbps");
         mAdapter.addItem("http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_4x3/gear3/prog_index.m3u8", "bipbop basic 640x480 @ 1 Mbps");
         mAdapter.addItem("http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_4x3/gear4/prog_index.m3u8", "bipbop basic 960x720 @ 2 Mbps");
